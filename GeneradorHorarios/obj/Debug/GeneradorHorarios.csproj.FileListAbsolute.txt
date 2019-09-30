@@ -1,0 +1,15 @@
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\obj\Debug\GeneradorHorarios.csprojResolveAssemblyReference.cache
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\obj\Debug\GeneradorHorarios.csproj.CoreCompileInputs.cache
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\GeneradorHorarios.exe.config
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\GeneradorHorarios.exe
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\GeneradorHorarios.pdb
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\itextsharp.dll
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\Spire.License.dll
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\Spire.Pdf.dll
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\Microsoft.mshtml.dll
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\itextsharp.xml
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\Spire.License.xml
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\bin\Debug\Spire.Pdf.xml
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\obj\Debug\GeneradorHorarios.csproj.CopyComplete
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\obj\Debug\GeneradorHorarios.exe
+C:\Users\windws10\Desktop\TOPICOS 2\GeneradorHorarios\GeneradorHorarios\obj\Debug\GeneradorHorarios.pdb
